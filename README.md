@@ -1,6 +1,6 @@
-# Frontend Mentor - ######NOME DO PROJETO AQUI
+# Frontend Mentor - Four Card Feature Section
 
-Esta é uma solução para o desafio do Frontend Mentor [#####NOME DO PROJETO AQUI challenge on Frontend Mentor](#######LINK DO CHALLENGE HUB). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o desafio do Frontend Mentor [Four Card Feature Section challenge on Frontend Mentor](#######LINK DO CHALLENGE HUB). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades de codificação criando projetos realistas.
 
 ## Índice
 
