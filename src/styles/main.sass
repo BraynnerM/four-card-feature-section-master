@@ -17,13 +17,36 @@
         align-items: center
 
         .container
-            border: 5px solid black            
+            border: 5px solid black
+            height: 95vh
+            display: flex
+            flex-direction: column
+            justify-content: center
+            align-items: center 
+            .title
+                display: flex
+                flex-direction: column
+                justify-content: center
+                align-items: center
+                height: 30%
+                h2
+                    color: pink
+                strong
+                    color: blue
+                p
+                    color: red          
             .cards
                 border: 5px solid gray
                 display: flex
-                gap: 5px                
+                align-items: center
+                gap: 5px
+                height: 70% 
+                .card
+                    width: 400px
+                    height: 300px               
                 .card-1
                     border: 5px solid black
+
                 .card-group
                     border: 5px solid red
                     display: flex
@@ -35,3 +58,4 @@
                         border: 5px solid black
                 .card-4
                     border: 5px solid black
+            
