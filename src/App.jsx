@@ -37,7 +37,7 @@ function App() {
           <h3>Calculator</h3>
           <p>
             Uses data from past projects to provide better delivery estimates
-          </p>
+          </p>          
           <img src="./images/icon-calculator.svg" alt="stats" />
         </div>
       </div>
