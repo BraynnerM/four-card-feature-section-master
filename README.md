@@ -1,6 +1,6 @@
 # Frontend Mentor - Four Card Feature Section
 
-Esta é uma solução para o desafio do Frontend Mentor [Four Card Feature Section challenge on Frontend Mentor](#######LINK DO CHALLENGE HUB). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o desafio do Frontend Mentor [Four Card Feature Section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Os desafios do Frontend Mentor ajudam a melhorar minhas habilidades de codificação criando projetos realistas.
 
 ## Índice
 
@@ -29,8 +29,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Github](REPOSITÓRIO DO PROJETO AQUI)
--  URL do site no Github Pages: [NOME DO PROJETO AQUI](SITE DO PROJETO AQUI)
+- URL da solução: [Github](https://github.com/BraynnerM/four-card-feature-section-master)
+-  URL do site no Github Pages: [Four Card Feature Section Master](https://four-card-feature-section-master-six-azure.vercel.app/)
 
 ## Meu processo
 
